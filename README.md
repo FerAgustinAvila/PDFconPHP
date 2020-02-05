@@ -5,8 +5,8 @@ Simple pero a partir de ahi se puede ir editando, mejorando.
 
 ## Formulario
 
-!(Principal)[Vistas/index.jpg]
+![Principal](Vistas/index.jpg)
 
 ## PDF
 
-!(PDF)[Vistas/pdf.jpg]
+![PDF](Vistas/pdf.jpg)
